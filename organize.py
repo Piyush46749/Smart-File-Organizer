@@ -27,3 +27,9 @@ dirs = {
     "mov": "Videos",
     "webm": "Videos",
     "flv": "Videos",
+
+    # Music
+    "mp3": "Music",
+    "ogg": "Music",
+    "wav": "Music",
+    "flac": "Music",
