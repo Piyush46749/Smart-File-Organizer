@@ -13,3 +13,12 @@ def get_dir(filename):
     ext = filename.suffix[1:]
     return dirs.get(ext, "Miscellaneous")
 
+dirs = {
+    # Images
+    "jpeg": "Images",
+    "png": "Images",
+    "jpg": "Images",
+    "tiff": "Images",
+    "gif": "Images",
+
+    
