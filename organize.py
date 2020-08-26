@@ -21,4 +21,9 @@ dirs = {
     "tiff": "Images",
     "gif": "Images",
 
-    
+    # Videos
+    "mp4": "Videos",
+    "mkv": "Videos",
+    "mov": "Videos",
+    "webm": "Videos",
+    "flv": "Videos",
