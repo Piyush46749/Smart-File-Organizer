@@ -33,3 +33,12 @@ dirs = {
     "ogg": "Music",
     "wav": "Music",
     "flac": "Music",
+
+    # Program Files
+    "py": "Program Files",
+    "js": "Program Files",
+    "cpp": "Program Files",
+    "html": "Program Files",
+    "css": "Program Files",
+    "c": "Program Files",
+    "sh": "Program Files",
