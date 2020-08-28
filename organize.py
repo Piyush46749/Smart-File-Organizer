@@ -62,3 +62,7 @@ if len(argv) != 2:
 
 # Directory Path
 PATH = Path(argv[1])
+
+for filename in PATH.iterdir():
+
+    path_to_file = filename.absolute()
