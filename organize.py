@@ -59,3 +59,6 @@ if len(argv) != 2:
     print(f"[Usage] python {Path(__file__).name} <dir_path>")
     print("=" * 35)
     exit(1)
+
+# Directory Path
+PATH = Path(argv[1])
