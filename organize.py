@@ -42,3 +42,13 @@ dirs = {
     "css": "Program Files",
     "c": "Program Files",
     "sh": "Program Files",
+
+    # Documents
+    "pdf": "Documents",
+    "doc": "Documents",
+    "docx": "Documents",
+    "txt": "Documents",
+    "ppt": "Documents",
+    "ods": "Documents",
+    "csv": "Documents"
+}
