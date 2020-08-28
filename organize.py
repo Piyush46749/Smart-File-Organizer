@@ -52,3 +52,10 @@ dirs = {
     "ods": "Documents",
     "csv": "Documents"
 }
+
+if len(argv) != 2:
+    print("=" * 35)
+    print("[ERROR] Invalid number of arguments were given")
+    print(f"[Usage] python {Path(__file__).name} <dir_path>")
+    print("=" * 35)
+    exit(1)
